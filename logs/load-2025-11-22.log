@@ -1,0 +1,12 @@
+[2025-11-22 11:43:16] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:43:17] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:43:17] [ERROR] ❌ Lỗi khi lưu staging: [Errno 5] An error occurred (XMinioInvalidObjectName) when calling the PutObject operation: Object name contains unsupported characters.
+[2025-11-22 11:44:47] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 11:44:47] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 11:44:47] [ERROR] ❌ Lỗi khi lưu staging: [Errno 5] An error occurred (XMinioInvalidObjectName) when calling the PutObject operation: Object name contains unsupported characters.
+[2025-11-22 12:13:49] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:13:49] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:13:49] [ERROR] ❌ Lỗi khi lưu staging: [Errno 5] An error occurred (XMinioInvalidObjectName) when calling the PutObject operation: Object name contains unsupported characters.
+[2025-11-22 12:19:05] [INFO] 🔹 Đang đọc dữ liệu clean từ: s3://data/clean_data.csv
+[2025-11-22 12:19:05] [INFO] ✅ Đã đọc 20 dòng, 5 cột dữ liệu
+[2025-11-22 12:19:05] [INFO] 🎯 Đã lưu staging thành công vào: s3://data/staging/2025-11-22/clean_data.csv

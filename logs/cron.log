@@ -1,0 +1,1131 @@
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: 
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+🔹 Connected to Dask Scheduler
+🔹 Submitting Extract on Worker1...
+❌ Extract failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Transform on Worker1...
+❌ Transform failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Loaddata on Worker2...
+❌ Loaddata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting Checkdata on Worker2...
+❌ Checkdata failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_brand on Worker2...
+❌ DW Load dim_brand failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: dim_product on Worker2...
+❌ DW Load dim_product failed
+➡ Error: timed out after 20 s.
+None
+
+🔹 Submitting DW Load: fact_product_price on Worker2...
+❌ DW Load fact_product_price failed
+➡ Error: timed out after 20 s.
+None
+
+⏳ ETL + DW Pipeline Finished
+📌 Extract Path: None
+📌 Transform Result: None
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/venv/lib64/python3.9/site-packages/distributed/comm/core.py", line 342, in connect
+    comm = await wait_for(
+  File "/root/venv/lib64/python3.9/site-packages/distributed/utils.py", line 1957, in wait_for
+    return await asyncio.wait_for(fut, timeout)
+  File "/usr/lib64/python3.9/asyncio/tasks.py", line 479, in wait_for
+    return fut.result()
+  File "/root/venv/lib64/python3.9/site-packages/distributed/comm/tcp.py", line 559, in connect
+    convert_stream_closed_error(self, e)
+  File "/root/venv/lib64/python3.9/site-packages/distributed/comm/tcp.py", line 140, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <distributed.comm.tcp.TCPConnector object at 0x7fbdc31813a0>: ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/project_dask/control.py", line 15, in <module>
+    client = Client("tcp://192.168.1.100:8786")
+  File "/root/venv/lib64/python3.9/site-packages/distributed/client.py", line 1235, in __init__
+    self.start(timeout=timeout)
+  File "/root/venv/lib64/python3.9/site-packages/distributed/client.py", line 1437, in start
+    sync(self.loop, self._start, **kwargs)
+  File "/root/venv/lib64/python3.9/site-packages/distributed/utils.py", line 439, in sync
+    raise error
+  File "/root/venv/lib64/python3.9/site-packages/distributed/utils.py", line 413, in f
+    result = yield future
+  File "/root/venv/lib64/python3.9/site-packages/tornado/gen.py", line 783, in run
+    value = future.result()
+  File "/root/venv/lib64/python3.9/site-packages/distributed/client.py", line 1516, in _start
+    await self._ensure_connected(timeout=timeout)
+  File "/root/venv/lib64/python3.9/site-packages/distributed/client.py", line 1584, in _ensure_connected
+    comm = await connect(
+  File "/root/venv/lib64/python3.9/site-packages/distributed/comm/core.py", line 368, in connect
+    raise OSError(
+OSError: Timed out trying to connect to tcp://192.168.1.100:8786 after 30 s
